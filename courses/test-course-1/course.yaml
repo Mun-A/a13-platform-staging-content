@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Mun-A/a13-platform-content-schema/main/schemas/course.schema.json?token=GHSAT0AAAAAACOY7EH47VL3JPSXEWUWZAIWZQL7I2A
+id: "cluicy88c00008gui0929epk2"
+title: "Название курсаааа"
+description: |
+  ## Описание курса в формате Markdown:
+  - Пункт 1
+  - Пункт 2
+  - Пункт 3
+  - Пункт [4](https://google.com)
+lessons:
+  - "lesson-1"

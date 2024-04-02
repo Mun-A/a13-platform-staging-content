@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/Mun-A/a13-platform-content-schema/main/schemas/manifest.schema.json?token=GHSAT0AAAAAACOY7EH5NDVHJIB5W4CITC6EZQL7HVQ
+courses:
+  - "test-course-1"
